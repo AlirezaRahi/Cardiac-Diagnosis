@@ -202,7 +202,12 @@ Copyright (c) 2025 Alireza Rahi
 Unauthorized access, use, modification, or distribution of this software is strictly prohibited without explicit written permission from the copyright holder.
 
 ---
-Rahi, A. (2025). Fusion-Based Deep Learning Ensemble on MIT-BIH and PTB-XL ECG Databases for Enhanced Cardiac Diagnosis. medRxiv. https://doi.org/10.1101/2025.08.20.25334079
+## Citation
 
+If you use this code or methodology in your research, please cite:
+
+```
+Rahi, A. (2025). Fusion-Based Deep Learning Ensemble on MIT-BIH and PTB-XL ECG Databases for Enhanced Cardiac Diagnosis. medRxiv. https://doi.org/10.1101/2025.08.20.25334079
+```
 ---
 **Medical Disclaimer:** This software is intended for research and educational purposes. Clinical decisions should always be made by qualified healthcare professionals considering comprehensive patient assessment. The authors are not liable for any medical decisions made using this tool.
