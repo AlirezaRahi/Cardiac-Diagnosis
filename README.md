@@ -204,10 +204,13 @@ Unauthorized access, use, modification, or distribution of this software is stri
 ---
 ## Citation
 
-If you use this code or methodology in your research, please cite:
+If you use this work in your research, please cite the paper:
 
-```
-Rahi, A. (2025). Fusion-Based Deep Learning Ensemble on MIT-BIH and PTB-XL ECG Databases for Enhanced Cardiac Diagnosis. medRxiv. https://doi.org/10.1101/2025.08.20.25334079
-```
+> **Rahi, A.** (2025). *Fusion-Based Deep Learning Ensemble on MIT-BIH and PTB-XL ECG Databases for Enhanced Cardiac Diagnosis*. medRxiv. https://doi.org/10.1101/2025.08.20.25334079
+
+If you use the code implementation (software, methodology, scripts, etc.), please also cite:
+
+> **Rahi, A.** (2025). *Fusion-Based Deep Learning Ensemble on MIT-BIH and PTB-XL ECG Databases for Enhanced Cardiac Diagnosis* [Computer software]. GitHub repository, *AlirezaRahi/Cardiac-Diagnosis*. Retrieved from https://github.com/AlirezaRahi/Cardiac-Diagnosis
+
 ---
 **Medical Disclaimer:** This software is intended for research and educational purposes. Clinical decisions should always be made by qualified healthcare professionals considering comprehensive patient assessment. The authors are not liable for any medical decisions made using this tool.
